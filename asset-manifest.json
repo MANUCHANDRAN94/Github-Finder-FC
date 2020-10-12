@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Github-Finder-FC/static/css/main.c1ef5e3b.chunk.css",
+    "main.js": "/Github-Finder-FC/static/js/main.c9c8fc6d.chunk.js",
+    "main.js.map": "/Github-Finder-FC/static/js/main.c9c8fc6d.chunk.js.map",
+    "runtime-main.js": "/Github-Finder-FC/static/js/runtime-main.3b281595.js",
+    "runtime-main.js.map": "/Github-Finder-FC/static/js/runtime-main.3b281595.js.map",
+    "static/js/2.57fde6a5.chunk.js": "/Github-Finder-FC/static/js/2.57fde6a5.chunk.js",
+    "static/js/2.57fde6a5.chunk.js.map": "/Github-Finder-FC/static/js/2.57fde6a5.chunk.js.map",
+    "index.html": "/Github-Finder-FC/index.html",
+    "precache-manifest.2b097795bd84c3f80401c7634fc0198f.js": "/Github-Finder-FC/precache-manifest.2b097795bd84c3f80401c7634fc0198f.js",
+    "service-worker.js": "/Github-Finder-FC/service-worker.js",
+    "static/css/main.c1ef5e3b.chunk.css.map": "/Github-Finder-FC/static/css/main.c1ef5e3b.chunk.css.map",
+    "static/js/2.57fde6a5.chunk.js.LICENSE.txt": "/Github-Finder-FC/static/js/2.57fde6a5.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/Github-Finder-FC/static/media/spinner.37533f84.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b281595.js",
+    "static/js/2.57fde6a5.chunk.js",
+    "static/css/main.c1ef5e3b.chunk.css",
+    "static/js/main.c9c8fc6d.chunk.js"
+  ]
+}
